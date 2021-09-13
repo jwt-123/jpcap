@@ -10,5 +10,8 @@
         <module name="untitled4" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="untitled4" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
